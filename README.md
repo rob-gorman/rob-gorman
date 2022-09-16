@@ -7,15 +7,14 @@
 <div align="left">
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg"/>
   <img width="55" src="https://user-images.githubusercontent.com/41551585/186274666-87b983ce-d758-47b2-b073-09123c9c8a8e.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/>
-  <img width="55" src="https://user-images.githubusercontent.com/41551585/186274625-6cc9d3cf-703d-45d5-84c2-8f94c3ba70c5.svg"/>
+  <img width="95" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gopher.svg"/>
+  <img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gopher.svg"/>
 </div>
 
-[Personal Site](https://robgorman.dev/)
-[LinkedIn](https://www.linkedin.com/in/robjgorman)
+- [Personal Site](https://robgorman.dev/)
+- [LinkedIn](https://www.linkedin.com/in/robjgorman)
 
 #### Read the Fána case study [here](https://fana-io.github.io/case-study.html)
